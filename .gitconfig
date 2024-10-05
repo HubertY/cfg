@@ -1,0 +1,10 @@
+[core]
+	editor = code --wait
+[user]
+	email = yuanhubert@gmail.com
+	name = Hubert Yuan
+	signingkey = hubert@exa.ai
+[commit]
+	gpgsign = true
+[pull]
+	rebase = true
